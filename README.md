@@ -1,4 +1,4 @@
-### Olá, seja Bem-Vindo ao meu GitHub!
+### Olá, seja bem-vindo ao meu GitHub!
 
  <div>
 <div align="center">
